@@ -1,2 +1,2 @@
 # Portofolio-Kedai-Kopi
-Portofolio kedua.
+Portofolio kedua yang dibuat tanpa bantuan framework.
