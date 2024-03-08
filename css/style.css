@@ -500,7 +500,7 @@ footer .credit a {
   margin: 15% auto;
   padding: 1.2rem;
   border: 1px solid #666;
-  width: 80%;
+  width: 85%;
   animation: animateModal 0.5s;
 }
 
@@ -527,7 +527,7 @@ footer .credit a {
 }
 
 .modal-content img {
-  height: 16rem;
+  height: 15rem;
   margin-right: 2rem;
   margin-bottom: 2rem;
 }
@@ -544,8 +544,12 @@ footer .credit a {
   width: 12rem;
   background-color: var(--primary);
   color: #fff;
-  margin-top: 1rem;
+  margin-top: 0.8rem;
   padding: 1rem 1.6rem;
+}
+
+.modal-container .product-stars .star-full {
+  fill: var(--primary);
 }
 
 /* Media Queries */
